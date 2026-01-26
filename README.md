@@ -14,9 +14,16 @@ I'm a PhD candidate in computational cosmology at the [AstroParticule & Cosmolog
 | Project | Description |
 |---------|-------------|
 | [**jaxDecomp**](https://github.com/DifferentiableUniverseInitiative/jaxDecomp) | JAX bindings to NVIDIA cuDecomp for distributed 3D FFTs and multi-GPU domain decomposition |
+| [**FURAX_CS**](https://github.com/ASKabalan/furax-compsep-paper) | Component separation pipeline for the Simons Observatory and LiteBird using FURAX |
 | [**JaxPM**](https://github.com/DifferentiableUniverseInitiative/JaxPM) | Particle-mesh cosmological simulation toolkit in JAX with multi-accelerator support |
 | [**FURAX**](https://github.com/CMBSciPol/furax) | Framework for Unified and Robust data Analysis with JAX for inverse problems in cosmology |
 | [**jax-healpy**](https://github.com/CMBSciPol/jax-healpy) | JAX-native HEALPix utilities - GPU-ready and differentiable |
+| [**jax-grid-search**](https://github.com/CMBSciPol/jax-grid-search) | Distributed grid search + gradient-based optimization built on JAX/Optax |
+
+### Contributions
+
+- [**S2FFT**](https://github.com/astro-informatics/s2fft) — Differentiable spherical/Wigner transforms (JAX & PyTorch).
+  *Contribution:* translated part of the spherical harmonics algorithm to CUDA to avoid long JAX JIT compile times.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
