@@ -16,7 +16,7 @@ I'm a PhD candidate in computational cosmology at the [AstroParticule & Cosmolog
 | [**jax-fli**](https://github.com/ASKabalan/jax-fli) | JAX Based Field Level Inference package with fully distributed and high resolution nbody and lensing simulations |
 | [**jaxDecomp**](https://github.com/DifferentiableUniverseInitiative/jaxDecomp) | JAX bindings to NVIDIA cuDecomp for distributed 3D FFTs and multi-GPU domain decomposition |
 | [**FURAX_CS**](https://github.com/CMBSciPol/furax-cs) | Component separation pipeline for the Simons Observatory and LiteBird using FURAX |
-| [**CADRE**](https://arxiv.org/abs/2604.08463) | Robust GPU-accelerated minimizer for parametric CMB component separation under low signal-to-noise and spatially varying foreground SEDs |
+| [**CADRE**](https://github.com/CMBSciPol/CADRE) | Robust GPU-accelerated minimizer for parametric CMB component separation under low signal-to-noise and spatially varying foreground SEDs |
 | [**JaxPM**](https://github.com/DifferentiableUniverseInitiative/JaxPM) | Particle-mesh cosmological simulation toolkit in JAX with multi-accelerator support |
 | [**FURAX**](https://github.com/CMBSciPol/furax) | Framework for Unified and Robust data Analysis with JAX for inverse problems in cosmology |
 | [**jax-healpy**](https://github.com/CMBSciPol/jax-healpy) | JAX-native HEALPix utilities - GPU-ready and differentiable |
